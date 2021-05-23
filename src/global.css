@@ -1,0 +1,15 @@
+:root{
+    --bg-dark: #171822;
+    --bg: #212330;
+    --white: #FFFFFF;
+    --bg-light: #F1F3F6;
+    --primary-color: #FF8E2B;
+}
+
+*{
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

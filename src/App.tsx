@@ -1,10 +1,14 @@
 import React from 'react';
+import Layout from './components/Layout';
+import Home from './pages/Home';
+import Routes from './Routes';
+import './global.css'
 
 function App() {
   return (
-    <div className="App">
-      Hello
-    </div>
+    <Layout>
+      <Routes />
+    </Layout>
   );
 }
 
