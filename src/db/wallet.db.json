@@ -1,0 +1,12 @@
+{
+    "wallets": [
+        {
+            "id": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+            "amount": 10000
+        },
+        {
+            "id": "ec103814b9ccb1e305ce20d6a25e681d3735d2301d5bb631b8dfa0abb2394a99",
+            "amount": 10000
+        }
+    ]
+}
