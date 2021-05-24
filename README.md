@@ -48,7 +48,7 @@ Para a criação da blockchain foi utilizado JavaScript puro com NodeJS, pela ag
 Esperamos que a Mong alcance e ajude infinitas ações, queremos incentivar ainda mais pessoas a doarem e se beneficiarem com essa ação, não apenas sentimentalmente mas, também, monetariamente.
 
 
-In the project directory, you can run:
+No diretório do projeto você por rodar:
 
 ### `yarn install`
 ### `yarn start`
