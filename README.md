@@ -53,5 +53,6 @@ No diretório do projeto você por rodar:
 ### `yarn install`
 ### `yarn start`
 
-Runs the app in the development mode.\
+Roda o app em modo de desenvolvimento
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
