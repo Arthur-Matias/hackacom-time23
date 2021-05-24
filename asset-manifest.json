@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hackacom-time23/static/css/main.17039976.chunk.css",
-    "main.js": "/hackacom-time23/static/js/main.5afd06ed.chunk.js",
-    "main.js.map": "/hackacom-time23/static/js/main.5afd06ed.chunk.js.map",
+    "main.js": "/hackacom-time23/static/js/main.3f70b815.chunk.js",
+    "main.js.map": "/hackacom-time23/static/js/main.3f70b815.chunk.js.map",
     "runtime-main.js": "/hackacom-time23/static/js/runtime-main.ca176e47.js",
     "runtime-main.js.map": "/hackacom-time23/static/js/runtime-main.ca176e47.js.map",
     "static/js/2.b5702d5a.chunk.js": "/hackacom-time23/static/js/2.b5702d5a.chunk.js",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.ca176e47.js",
     "static/js/2.b5702d5a.chunk.js",
     "static/css/main.17039976.chunk.css",
-    "static/js/main.5afd06ed.chunk.js"
+    "static/js/main.3f70b815.chunk.js"
   ]
 }
