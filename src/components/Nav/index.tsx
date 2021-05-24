@@ -1,4 +1,5 @@
 import React from "react"
+import { Link } from "react-router-dom"
 import './nav.css'
 
 interface NavProps{
@@ -7,7 +8,7 @@ interface NavProps{
 
 const Nav: React.FC<NavProps> = ({items})=>{
     function renderItem(txt:string){
-        return <a href={txt}>{txt}</a>
+        return <Link key={txt} className="menu-link" to={txt}>{txt}</Link>
     }
     return(
         <>

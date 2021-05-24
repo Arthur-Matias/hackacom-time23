@@ -5,7 +5,7 @@ import SwitchButton from '../SwitchButton'
 import './navbar.css'
 
 export default function Navbar(){
-    let menuItems: string[] = ["home", "wallet","buy mong","donation","profile"];
+    let menuItems: string[] = ["home", "wallet","buy","donation","profile"];
     return (
     <div className="navbar">
         <Logo />

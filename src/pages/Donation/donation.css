@@ -1,0 +1,24 @@
+#Donation{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.donation-categories{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+#Donation header{
+    padding: 2rem 0;
+}
+#Donation header h2{
+    font-size: 2rem;
+    font-weight: 300;
+}

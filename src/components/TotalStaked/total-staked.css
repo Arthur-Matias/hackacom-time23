@@ -1,0 +1,74 @@
+#Total-staked{
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+
+    padding: 0 10rem;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.stake-container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.stake-container header{
+    display: flex;
+    align-self: flex-start;
+    justify-self: self-start;
+    
+    align-items: center;
+    justify-content: center;
+    background-color: var(--light-gray);
+    padding: 0 2rem;
+    border-radius: 6px 6px 0 0;
+}
+.stake-container header img{
+    margin-left: 1rem;
+}
+.stake-container header p{
+    margin: 0 1rem;
+}
+.stake-amount{
+    border-radius: 0 6px 0px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    background-color: var(--light-gray);
+    position: relative;
+}
+
+.stake-amount h1{
+    font-size: 3rem;
+    font-weight: 900;
+    color: var(--secondary-color);
+}
+
+.stake-amount p{
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.backicon{
+    display: flex;
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+}
+
+.benefited{
+    height: 100%;
+    width: 100%;
+}

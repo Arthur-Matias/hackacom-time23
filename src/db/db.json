@@ -1,0 +1,204 @@
+{
+    "pools": [
+        {
+            "cause": "Animal Rescue",
+            "poolAmount": 10045600,
+            "id": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+            "ongs": [],
+            "investors": [
+                {
+                    "wallet": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+                    "stakedVal": 524.0008
+                }
+            ]
+        },
+        {
+            "cause": "Education",
+            "poolAmount": 10564000,
+            "id": "aeebad4a998fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+            "ongs": [
+                {
+                    "name": "Projeto Ajudei",
+                    "pic": "https://scontent.ffln4-1.fna.fbcdn.net/v/t1.6435-9/169151360_3519374394834738_44162745362149971_n.png?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=7G3Phepgc6MAX8a5ICV&_nc_ht=scontent.ffln4-1.fna&oh=bf440b6af1cf74fa13c76ce027d91695&oe=60D1B1D7"
+                }
+            ],
+            "investors": []
+        },
+        {
+            "cause": "Health",
+            "poolAmount": 25000000,
+            "id": "aeebsera796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+            "ongs": [
+                {
+                    "name": "Instituto Bom Aluno do Brasil",
+                    "pic": "https://www.bomaluno.org.br/materiais/logo.svg"
+                },
+                {
+                    "name": "ASID Brasil",
+                    "pic": "https://asidbrasil.org.br/wp-content/uploads/2019/12/Logo-ASID-horizontal.png"
+                },
+                {
+                    "name": "Maestro da Bola",
+                    "pic": "https://www.projetomaestrodabola.com.br/wp-content/uploads/2019/05/logo-maestrodabola-150x89.png"
+                },
+                {
+                    "name": "Instituto Playing For Change",
+                    "pic": "https://3y5x73a532if8hm233q2pd4f-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/LOGO-PFCF-colors-01-300x188-opt.png"
+                },
+                {
+                    "name": "Encontro Fraterno Lins Vasconcellos",
+                    "pic": "http://linsdevasconcellos.org.br/wp-content/uploads/2015/09/logoMenor.png"
+                },
+                {
+                    "name": "Escola Nilza Tartuce",
+                    "pic": "https://escolaespecialnilzatartuce.org.br/Layout/Imagens/Logo.png"
+                }
+            ],
+            "investors": []
+        },
+        {
+            "cause": "Environment",
+            "poolAmount": 25000000,
+            "id": "aeebsera796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+            "ongs": [
+                {
+                    "name": "Instituto BiodiverCidade",
+                    "pic": ""
+                }
+            ],
+            "investors": []
+        },
+        {
+            "cause": "Against Hunger",
+            "poolAmount": 25000000,
+            "id": "aeebsera796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+            "ongs": [
+                {
+                    "name": "GoodTruck Brasil",
+                    "pic": "https://goodtruck.org.br/wp-content/themes/navas/dist/img/logo.svg"
+                },
+                {
+                    "name": "Aldeias Infantis SOS Brasil",
+                    "pic": "https://www.aldeiasinfantis.org.br/getmedia/4a37b46c-2f7d-4c62-808f-e610c63b39a8/Aldeias-Infantis-SOS-Brasil_Logo.png?width=200&height=64&ext=.png"
+                }
+            ],
+            "investors": []
+        }
+    ],
+    "transactions": [
+        {
+            "hash": "b81e2f7136a53bd6ddad341a87c15d26a80a873735a1bc895cdd4b7eba573897",
+            "lasthash": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+            "timestamp": "11/18/2020",
+            "transactionType" : "DONATION",
+            "data": {
+                "fee": "1",
+                "to": "9495f348fbec4560bd5c5b9598c2896592aed97a02ac1b8ee972f0dfdc72b7d1",
+                "from": "0a7039446cf107d69250853be64581ba67ed4a6ebcf3121fc95c5803736b29e5",
+                "amount": "50.005368"
+            }
+        },
+        {
+            "hash": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+            "lasthash": "b81e2f7136a53bd6ddad341a87c15d26a80a873735a1bc895cdd4b7eba573897",
+            "timestamp": "11/18/2020",
+            "transactionType" : "TRANSACTION",
+            "data": {
+                "fee": "3",
+                "to": "9495f348fbec4560bd5c5b9598c2896592aed97a02ac1b8ee972f0dfdc72b7d1",
+                "from": "0a7039446cf107d69250853be64581ba67ed4a6ebcf3121fc95c5803736b29e5",
+                "amount": "25.056877"
+            }
+        },
+        {
+            "hash": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+            "lasthash": "b81e2f7136a53bd6ddad341a87c15d26a80a873735a1bc895cdd4b7eba573897",
+            "timestamp": "11/18/2020",
+            "transactionType" : "POOL",
+            "data": {
+                "fee": "3",
+                "to": "9495f348fbec4560bd5c5b9598c2896592aed97a02ac1b8ee972f0dfdc72b7d1",
+                "from": "0a7039446cf107d69250853be64581ba67ed4a6ebcf3121fc95c5803736b29e5",
+                "amount": "25.056877"
+            }
+        },
+        {
+            "hash": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+            "lasthash": "b81e2f7136a53bd6ddad341a87c15d26a80a873735a1bc895cdd4b7eba573897",
+            "timestamp": "11/18/2020",
+            "transactionType" : "STAKE",
+            "data": {
+                "fee": "1",
+                "to": "9495f348fbec4560bd5c5b9598c2896592aed97a02ac1b8ee972f0dfdc72b7d1",
+                "from": "0a7039446cf107d69250853be64581ba67ed4a6ebcf3121fc95c5803736b29e5",
+                "amount": "25.056877"
+            }
+        }
+    ],
+    "wallets": [
+        {
+            "id": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+            "amount": 10000
+        },
+        {
+            "id": "ec103814b9ccb1e305ce20d6a25e681d3735d2301d5bb631b8dfa0abb2394a99",
+            "amount": 10000
+        }
+    ],
+    "accounts": [
+        {
+            "id": "b81e2f7136a53bd6ddad341a87c15d26a80a873735a1bc895cdd4b7eba573897",
+            "wallet": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+            "transactions": [
+                {
+                    "hash": "b81e2f7136a53bd6ddad341a87c15d26a80a873735a1bc895cdd4b7eba573897",
+                    "lasthash": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+                    "timestamp": "11/18/2020",
+                    "transactionType" : "DONATION",
+                    "data": {
+                        "fee": "1",
+                        "to": "9495f348fbec4560bd5c5b9598c2896592aed97a02ac1b8ee972f0dfdc72b7d1",
+                        "from": "0a7039446cf107d69250853be64581ba67ed4a6ebcf3121fc95c5803736b29e5",
+                        "amount": "50.005368"
+                    }
+                },
+                {
+                    "hash": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+                    "lasthash": "b81e2f7136a53bd6ddad341a87c15d26a80a873735a1bc895cdd4b7eba573897",
+                    "timestamp": "11/18/2020",
+                    "transactionType" : "TRANSACTION",
+                    "data": {
+                        "fee": "3",
+                        "to": "9495f348fbec4560bd5c5b9598c2896592aed97a02ac1b8ee972f0dfdc72b7d1",
+                        "from": "0a7039446cf107d69250853be64581ba67ed4a6ebcf3121fc95c5803736b29e5",
+                        "amount": "25.056877"
+                    }
+                },
+                {
+                    "hash": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+                    "lasthash": "b81e2f7136a53bd6ddad341a87c15d26a80a873735a1bc895cdd4b7eba573897",
+                    "timestamp": "11/18/2020",
+                    "transactionType" : "POOL",
+                    "data": {
+                        "fee": "3",
+                        "to": "9495f348fbec4560bd5c5b9598c2896592aed97a02ac1b8ee972f0dfdc72b7d1",
+                        "from": "0a7039446cf107d69250853be64581ba67ed4a6ebcf3121fc95c5803736b29e5",
+                        "amount": "25.056877"
+                    }
+                },
+                {
+                    "hash": "aeebad4a796fcc2e15dc4c6061b45ed9b373f26adfc798ca7d2d8cc58182718e",
+                    "lasthash": "b81e2f7136a53bd6ddad341a87c15d26a80a873735a1bc895cdd4b7eba573897",
+                    "timestamp": "11/18/2020",
+                    "transactionType" : "STAKE",
+                    "data": {
+                        "fee": "1",
+                        "to": "9495f348fbec4560bd5c5b9598c2896592aed97a02ac1b8ee972f0dfdc72b7d1",
+                        "from": "0a7039446cf107d69250853be64581ba67ed4a6ebcf3121fc95c5803736b29e5",
+                        "amount": "25.056877"
+                    }
+                }
+            ]
+        }
+    ]
+}
