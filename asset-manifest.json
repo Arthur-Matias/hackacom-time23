@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/hackacom-time23/static/css/main.69c9574a.chunk.css",
-    "main.js": "/hackacom-time23/static/js/main.7a3392bc.chunk.js",
-    "main.js.map": "/hackacom-time23/static/js/main.7a3392bc.chunk.js.map",
+    "main.css": "/hackacom-time23/static/css/main.5653287b.chunk.css",
+    "main.js": "/hackacom-time23/static/js/main.075504b4.chunk.js",
+    "main.js.map": "/hackacom-time23/static/js/main.075504b4.chunk.js.map",
     "runtime-main.js": "/hackacom-time23/static/js/runtime-main.ca176e47.js",
     "runtime-main.js.map": "/hackacom-time23/static/js/runtime-main.ca176e47.js.map",
     "static/js/2.b5702d5a.chunk.js": "/hackacom-time23/static/js/2.b5702d5a.chunk.js",
     "static/js/2.b5702d5a.chunk.js.map": "/hackacom-time23/static/js/2.b5702d5a.chunk.js.map",
     "index.html": "/hackacom-time23/index.html",
-    "static/css/main.69c9574a.chunk.css.map": "/hackacom-time23/static/css/main.69c9574a.chunk.css.map",
+    "static/css/main.5653287b.chunk.css.map": "/hackacom-time23/static/css/main.5653287b.chunk.css.map",
     "static/js/2.b5702d5a.chunk.js.LICENSE.txt": "/hackacom-time23/static/js/2.b5702d5a.chunk.js.LICENSE.txt",
     "static/media/Connected-cuate 1.750f5b5d.svg": "/hackacom-time23/static/media/Connected-cuate 1.750f5b5d.svg",
     "static/media/card1.1a7bedb2.png": "/hackacom-time23/static/media/card1.1a7bedb2.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.ca176e47.js",
     "static/js/2.b5702d5a.chunk.js",
-    "static/css/main.69c9574a.chunk.css",
-    "static/js/main.7a3392bc.chunk.js"
+    "static/css/main.5653287b.chunk.css",
+    "static/js/main.075504b4.chunk.js"
   ]
 }
